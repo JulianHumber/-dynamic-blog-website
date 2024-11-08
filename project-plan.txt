@@ -1,0 +1,11 @@
+My Plan: 
+
+1. add three main pages index,new-post and post
+2. add JavaScript to handle CRUD operations
+3. make a CSS file
+4. layout design
+5. storing posts in local storage
+6. add a branch 
+7. design a form that is used for posts
+8. edit/delete post  
+8. git and GitHub for version control 
